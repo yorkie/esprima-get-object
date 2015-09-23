@@ -1,6 +1,6 @@
 {
   "name": "esprima-get-object",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get object from esprima ast",
   "main": "index.js",
   "scripts": {
