@@ -1,0 +1,22 @@
+{
+  "name": "esprima-get-object",
+  "version": "1.0.0",
+  "description": "get object from esprima ast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yorkie/esprima-get-object.git"
+  },
+  "keywords": [
+    "esprima"
+  ],
+  "author": "Yorkie Liu <yorkiefixer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yorkie/esprima-get-object/issues"
+  },
+  "homepage": "https://github.com/yorkie/esprima-get-object#readme"
+}
