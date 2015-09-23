@@ -14,7 +14,7 @@ see source of [yorkie/esprima-to-value](https://github.com/yorkie/esprima-to-val
 
 ## Author
 
-- Yorkie Lui(https://github.com/yorkie)
+- [Yorkie Lui](https://github.com/yorkie)
 
 ## License
 
